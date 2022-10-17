@@ -26,6 +26,9 @@ public class VOServiceTest {
 		System.out.println("== AntBuild Test =>");
 		System.out.println("== VOService 출력 =>" + service.getMemberVO());
 		
+		// commit test
+		System.out.println("commit test code 추가함");
+		
 	} //main
 
 } // class
